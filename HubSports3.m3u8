@@ -1,0 +1,5 @@
+EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=28000000
+#EXTINF:-1  tvg-id="105.astro" group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" tvg-logo="https://pictr.com/images/2025/01/13/x1kifr.png",Astro Prima(Sooka)
+https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
